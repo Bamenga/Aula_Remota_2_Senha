@@ -142,6 +142,12 @@ function avaliarSenha(senha) {
   - Todas as linhas de código são testadas
   - Todos os caminhos de decisão são cobertos
   - Todos os critérios de classificação são testados
+
+  Detalhes:
+  - Statements (Instruções): 100% (29/29)
+  - Branches (Ramificações): 100% (16/16)
+  - Functions (Funções): 100% (1/1)
+  - Lines (Linhas): 100% (29/29)
   
   O processo TDD foi seguido:
   1. Red: Escrevemos os testes primeiro, que falhariam sem implementação
